@@ -11,9 +11,9 @@ holding nine digitally-encoded drones, ranging in length from 1.5 to 40 seconds.
 is derived from a popular Chinese device that intones repeating loops of Buddhist chanting.
 
 As the devices are increasingly difficult to get, this demo simulates having multiple able to
-play simultaneously. 
+play simultaneously.
 
-[Inspect the demo]http://ronaldjadams.name/buddha) for more examples.
+[Inspect the demo](http://ronaldjadams.name/buddha) for more examples.
 
 ## What does it do?
 
@@ -39,7 +39,7 @@ different loops. Experiment.
 
 ## Authors
 
-* [Ron. Adams](https://github.com/ronaldjadams - [@ronaldjadams](http://twitter.com/ronaldjadams)
+* [Ron. Adams](https://github.com/ronaldjadams) - [@ronaldjadams](http://twitter.com/ronaldjadams)
 * [Zendesk](https://www.zendesk.com/blog/a-quickie-with)
 
 ## License
