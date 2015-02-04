@@ -39,7 +39,7 @@ different loops. Experiment.
 
 ## Authors
 
-* [Ron. Adams](https://github.com/ronaldjadams) - [@ronaldjadams](http://twitter.com/ronaldjadams)
+* [0xADADA](https://github.com/0xadada) - [@0xadada](http://twitter.com/0xadada)
 * [Zendesk](https://www.zendesk.com/blog/a-quickie-with)
 
 ## License
